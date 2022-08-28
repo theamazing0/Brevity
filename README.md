@@ -1,4 +1,4 @@
-# Brevify
+# Brevity
 Summarizes videos and audio into chapters and full transcriptions.
 
 ## Assembly AI API Key
